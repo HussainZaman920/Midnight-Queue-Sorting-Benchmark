@@ -10,7 +10,6 @@ Roll no: 24i-2625 | Section: B | Seed s = 242625 | K = 152
 - `results.csv` : every measurement (one row per measurement)
 - `creditcard.csv` : dataset (via Git LFS)
 - `docs/24i-2625-A2-B.pdf` : final report (Problems A-H)
-- `docs/The_Midnight_Queue_Assignment_2.pdf` : assignment problem statement
 - `README.md` : this file
 
 ## How to reproduce
